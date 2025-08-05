@@ -11,3 +11,4 @@ openai
 pydantic
 matplotlib
 plotly
+XlsxWriter
